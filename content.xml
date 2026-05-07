@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202605061036578EUR7K</value>
+    <value>20260507110922VRUS8W</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605061036573Z09YN</value>
+    <value>20260507110922AUDTFC</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -165,10 +165,12 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Digitalización en 4º de ESO.</p>
 <p>¡Vamos a aprender juntos!</p>
-<p><img src="{{context_path}}/content/resources/Diseno-sin-titulo-compressed-1.jpg" width="650" height="427" alt="" /></p>
+<figure class="exe-figure" style="width: 650px; text-align: left;"><img src="{{context_path}}/content/resources/Diseno-sin-titulo-compressed-1.jpg" width="650" height="427" alt="Digitalizacion" title="Digitalizacion" />
+<figcaption class="figcaption"><a href="https://www.servinform.es/" class="author" target="_blank" rel="noopener">servinform</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
 <p>Creado por Daniel Canillas Pérez</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mn5suh05-4qsjbgkoe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Digitalización en 4º de ESO.</p>\n<p>¡Vamos a aprender juntos!</p>\n<p><img src=\"{{context_path}}/content/resources/Diseno-sin-titulo-compressed-1.jpg\" width=\"650\" height=\"427\" alt=\"\" /></p>\n<p>Creado por Daniel Canillas Pérez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mn5suh05-4qsjbgkoe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Digitalización en 4º de ESO.</p>\n<p>¡Vamos a aprender juntos!</p>\n<figure class=\"exe-figure\" style=\"width: 650px; text-align: left;\"><img src=\"{{context_path}}/content/resources/Diseno-sin-titulo-compressed-1.jpg\" width=\"650\" height=\"427\" alt=\"Digitalizacion\" title=\"Digitalizacion\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.servinform.es/\" class=\"author\" target=\"_blank\" rel=\"noopener\">servinform</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Creado por Daniel Canillas Pérez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -372,10 +374,13 @@
           <odeIdeviceId>idevice-1774429438485-k742rlw23</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p> <img src="{{context_path}}/content/resources/Autor Daniel Canillas Pérez.jpg" width="1024" height="1536" alt="Seguridad dígital y uso responsable de la tecnología" title="Seguridad dígital y uso responsable de la tecnología" /></p>
+    <p> </p>
+<figure class="exe-figure position-center" style="width: 1024px;"><img src="{{context_path}}/content/resources/Autor Daniel Canillas Pérez.jpg" width="1024" height="1536" alt="Seguridad dígital y uso responsable de la tecnología" title="Seguridad dígital y uso responsable de la tecnología" />
+<figcaption class="figcaption"><a href="Creación propia" class="author" target="_blank" rel="noopener">Daniel Canillas Pérez</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Elaboración propia</span><span class="sep">)</span></span></figcaption>
+</figure>
 <p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774429438485-k742rlw23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <img src=\"{{context_path}}/content/resources/Autor Daniel Canillas Pérez.jpg\" width=\"1024\" height=\"1536\" alt=\"Seguridad dígital y uso responsable de la tecnología\" title=\"Seguridad dígital y uso responsable de la tecnología\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774429438485-k742rlw23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1024px;\"><img src=\"{{context_path}}/content/resources/Autor Daniel Canillas Pérez.jpg\" width=\"1024\" height=\"1536\" alt=\"Seguridad dígital y uso responsable de la tecnología\" title=\"Seguridad dígital y uso responsable de la tecnología\" />\n<figcaption class=\"figcaption\"><a href=\"Creación propia\" class=\"author\" target=\"_blank\" rel=\"noopener\">Daniel Canillas Pérez</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Elaboración propia</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -862,9 +867,11 @@
           <odeIdeviceId>idevice-1777971984369-3w5xspe60</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/MILESTONE NO. 1.jpg" title="Mapa Mental" width="800" height="2000" alt="Mapa Mental" /></p>
+    <figure class="exe-figure position-center" style="width: 800px; text-align: left;"><img src="{{context_path}}/content/resources/MILESTONE NO. 1.jpg" title="Mapa Mental" width="800" height="2000" alt="Mapa Mental" />
+<figcaption class="figcaption"><a href="Creación propia" class="author" target="_blank" rel="noopener">Daniel Canillas Pérez</a>. <span class="license"><span class="sep">(</span><span class="custom-license">Elaboración propia</span><span class="sep">)</span></span></figcaption>
+</figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777971984369-3w5xspe60","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/MILESTONE NO. 1.jpg\" title=\"Mapa Mental\" width=\"800\" height=\"2000\" alt=\"Mapa Mental\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777971984369-3w5xspe60","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: left;\"><img src=\"{{context_path}}/content/resources/MILESTONE NO. 1.jpg\" title=\"Mapa Mental\" width=\"800\" height=\"2000\" alt=\"Mapa Mental\" />\n<figcaption class=\"figcaption\"><a href=\"Creación propia\" class=\"author\" target=\"_blank\" rel=\"noopener\">Daniel Canillas Pérez</a>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Elaboración propia</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
